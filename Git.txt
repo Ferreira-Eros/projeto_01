@@ -1,0 +1,14 @@
+GIT
+Tem controle de versão; facilitando o trabalho para o desenvolvimento ajudando até mesmo o trabalho em equipe escolhendo o que deve continuar ou ser removido :
+
+Github
+
+Armazena códigos versionado pelo (Git) 
+
+code:
+
+git init - deixa oculto a pasta *
+
+git status - Verifica se o status do repositório está ou não atualizado, sua versão e etc.
+
+git add "" - Adiciona o arquivo no controle de versão.
