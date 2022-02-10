@@ -12,3 +12,14 @@ git init - deixa oculto a pasta *
 git status - Verifica se o status do repositório está ou não atualizado, sua versão e etc.
 
 git add "" - Adiciona o arquivo no controle de versão.
+
+git add . - Adiciona todos os arquivos que estavam pendentes p/ o controle de versão.
+
+git commit -m "" - É uma boa prática, feita para comentar o que foi na versão. O primeiro commit chamamos de "commit inicial".
+Na primeira vez usando o código na máquina é pedido para fazer uma configuração, de acordo com o que é pedido.
+
+git push - usando o link do projeto/site do Github envia as versões do código para o servidor na nuvem.
+$ git remote add **origin https://github.com/Ferreira-Eros/projeto_01.
+git push
+A branch inicialmente é a master. 
+Após isso a versão do arquivo vai para nuvem do Github.
